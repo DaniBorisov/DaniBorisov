@@ -37,7 +37,7 @@ I am a passionate and motivated software developer with a strong educational bac
 
 - **Software Developer**  
   LEGO Group, Billund, Denmark  
-  Responsibilities: Developing a Web App in collaboration with LEGo during my bachelors's thesis. I was the lead Front-ends Developer for this Project.  
+  Responsibilities: Developing a Web App in collaboration with LEGO during my bachelors's thesis. I was the lead Front-ends Developer for this Project.  
   • SAP Fiori, SAP ABAP, Web service, Typescript, CSS, HTML
 
 - **Front-End Development**  
