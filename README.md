@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-## About Me
 I am a passionate and motivated software developer with a strong educational background in computer science engineering. My journey into the world of technology began with a childhood fascination with computers, and since then, I have been dedicated to understanding their inner workings and solving technical challenges.
 
 * 🌍  I'm based in Horsens, Denmark
@@ -14,11 +13,11 @@ I am a passionate and motivated software developer with a strong educational bac
 
 ## Education
 - **Master's Degree in Computer Science Engineering with Cyber Security specialization**  
-  Denmark Technical University
-    (Copenhagen, Denmark)
+  Denmark Technical University  
+  (Copenhagen, Denmark)  
 - **Bachelor's Degree in ICT Engineering**  
-  VIA University College
-    (Horsens, Denmark)
+  VIA University College  
+  (Horsens, Denmark)
 
 ## Skills
 - **Programming Languages:** TypeScript, JavaScript, C++, Python, Java, C#, HTML, CSS
@@ -31,19 +30,19 @@ I am a passionate and motivated software developer with a strong educational bac
 
 ## Experience
 - **Software Developer**  
-  Danotek A/S, Artlinco A/S, Horsens, Denmark
-  Responsibilities: Developing MVP. Working in collaboration with the owners to create a Web App and its cloud infrastructure. The app utilizes sensor data and reacts based on the information received.
+  Danotek A/S, Artlinco A/S, Horsens, Denmark  
+  Responsibilities: Developing MVP. Working in collaboration with the owners to create a Web App and its cloud infrastructure. The app utilizes sensor data and reacts based on the information received.  
   • Microsoft Azure, Azure Cosmos DB, Azure
   • Figma, ASP.NET, Typescript, C#, CSS, HTML
 
 - **Software Developer**  
-  LEGO Group, Billund, Denmark
-  Responsibilities: Developing a Web App in collaboration with LEGo during my bachelors's thesis. I was the lead Front-ends Developer for this Project.
+  LEGO Group, Billund, Denmark  
+  Responsibilities: Developing a Web App in collaboration with LEGo during my bachelors's thesis. I was the lead Front-ends Developer for this Project.  
   • SAP Fiori, SAP ABAP, Web service, Typescript, CSS, HTML
 
 - **Front-End Development**  
-  Rithos A/S, Copenhagen, Denmark
-  Responsibilities: Internship during my Bachelor's education. I was introduced to Angular and Material Design. Had Various tasks - from maintaining existing systems to developing the backbone for new Applications. 
+  Rithos A/S, Copenhagen, Denmark  
+  Responsibilities: Internship during my Bachelor's education. I was introduced to Angular and Material Design. Had Various tasks - from maintaining existing systems to developing the backbone for new Applications.   
   • AngularJS, Typescript, Google Material Design
   
 
