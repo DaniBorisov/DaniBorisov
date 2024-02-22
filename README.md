@@ -8,7 +8,7 @@ Software Developer
 I am a passionate and motivated software developer with a strong educational background in computer science engineering. My journey into the world of technology began with a childhood fascination with computers, and since then, I have been dedicated to understanding their inner workings and solving technical challenges.
 
 * 🌍  I'm based in Horsens, Denmark
-* ✉️  You can contact me at [dani.boriosv@gamil.com](mailto:dani.boriosv@gamil.com)
+* ✉️  You can contact me at [dani.boriosv@gmail.com](mailto:dani.boriosv@gmail.com)
 * 🚀  I'm currently working on [SafeSign](http://daniborisov.github.io/SafeSign/)
 * 🧠  I'm learning Azure Cloud Infrastructure
 
@@ -48,11 +48,9 @@ I am a passionate and motivated software developer with a strong educational bac
   
 
 ## Contact Me
-- **Email:** [Your Email Address]
-- **LinkedIn:**<a href="https://www.linkedin.com/in/daniel-borisov/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-- **GitHub:** <p align="left"> <a href="https://www.github.com/DaniBorisov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-
-### Badges
+- **Email:** [dani.boriosv@gmail.com](mailto:dani.boriosv@gmail.com)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/daniel-borisov/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+- **GitHub:** <a href="https://www.github.com/DaniBorisov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 
 <b>My GitHub Stats</b>
 
